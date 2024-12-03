@@ -1,0 +1,2 @@
+# ProJouRu
+JOUrnal RUssian whitelist
